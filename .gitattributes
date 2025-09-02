@@ -1,1 +1,3 @@
 *.py export-ignore
+*.zip export-ignore
+*.tar.gz export-ignore
